@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# POC - SubDomain Takeover
 ## Header 2
 ### Header 3
 
@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Malicious Link - Dummy](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
